@@ -13,6 +13,9 @@
 
 # Màn Hình Chọn Ghế
 
+<img width="396" height="820" alt="image" src="https://github.com/user-attachments/assets/32627340-1f6b-48bf-87a5-20266510370e" />
+
+
 <img width="382" height="812" alt="image" src="https://github.com/user-attachments/assets/155b9c2a-fd17-46f8-8f89-2426362d5a9f" />
 
 

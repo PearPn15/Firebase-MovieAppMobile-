@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Cinema theme colors -->
+    <color name="colorPrimary">#B71C1C</color>
+    <color name="colorPrimaryDark">#7F0000</color>
+    <color name="colorPrimaryLight">#F05545</color>
+    <color name="colorAccent">#FFD700</color>
+    <color name="colorBackground">#121212</color>
+    <color name="colorSurface">#1E1E1E</color>
+    <color name="colorSurfaceVariant">#2A2A2A</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnBackground">#FFFFFF</color>
+    <color name="colorOnSurface">#FFFFFF</color>
+    <color name="colorTextSecondary">#AAAAAA</color>
+    <color name="colorDivider">#333333</color>
+    <color name="colorRating">#FFD700</color>
+    <color name="colorSuccess">#4CAF50</color>
+</resources>
